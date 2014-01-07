@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <title>Shadows in Paradise &mdash; TMDb</title>
+   
+   
+   <link rel="canonical" href="http://www.themoviedb.org/movie/3" />
+   <meta name="description" content="An episode in the life of Nikander, a garbage man, involving the death of a co-worker, an affair and much more. " />
+   
+   
+   <meta name="keywords" content="movies,films,movie database,movie api,actors,actresses,posters,fanart,backdrops,high quality,directors,hollywood,stars,quotes" />
+   <script src="http://cf2.themoviedb.org/javascripts/ext-base.js" type="text/javascript"></script>
+   <script src="http://cf2.themoviedb.org/javascripts/ext-all.js" type="text/javascript"></script>
+   
+   <link href="http://cf2.themoviedb.org/stylesheets/min/84fe/ext-all-notheme.css" media="screen" rel="stylesheet" type="text/css" />
+   <link href="http://cf2.themoviedb.org/stylesheets/min/84fe/xtheme-gray-extend.css" media="screen" rel="stylesheet" type="text/css" />
+   <link href="http://cf2.themoviedb.org/stylesheets/min/84fe/screen.css" media="screen" rel="stylesheet" type="text/css" />
+   <link rel="search" type="application/opensearchdescription+xml" title="TMDb Search" href="/opensearch.xml">
+    
+   <script type="text/javascript" charset="utf-8">
+      var lang = "en"
+      var locale = "us"
+      var type = "movie"
+      
+      Ext.onReady(function() {
+         Ext.get('search').on('focus',function(e,t){
+            this.addClass('on');
+         });
+      });
+   </script>
+</head>
+<body>
+   <div id="container">
+      <div id="navbg">&nbsp;</div>
+      <div id="subnavbg" class="movie">&nbsp;</div>
+      
+      <div id="header" class="movie">
+         <a href="/" alt="TMDb - The Open Movie Database"><img id="logo" src="http://cf2.themoviedb.org/assets/380c5d587c8d4/images/tmdb-logo.png" alt="TMDb - The open movie database" width="260" height="54" /></a>
+         
+         
+<div id="meta">
+   <ul>
+      <li class="addNew"><a href="/movie/new">Add New Movie</a></li>
+      <li class="login"><a href="/login">Account Login</a></li>
+   </ul>
+   <p><a href="/account/signup">Register</a></p>
+</div>
+
+                  
+         <ul id="nav">
+            <li class="movie on"><a href="/movie">Movies</a></li>
+            <li class="person"><a href="/person">People</a></li>
+            <li class="news"><a href="/news">News</a></li>
+            <li class="search"><form action="/search" method="get" accept-charset="utf-8"><input type="text" name="search" value="" id="search"></form></li>
+            <div style="clear: both;"></div>
+            
+            <ul id="subnav">
+   <li class=""><a href="/movie">Popular Movies</a></li>
+   <li class=""><a href="/movie/top-250">Top 250</a></li>
+   <li class=""><a href="/movie/now-playing">Now Playing</a></li>
+   <li class=""><a href="/movie/buy-tickets">Buy Tickets</a></li>
+   <div style="clear: both;"></div>
+</ul>
+            
+         </ul>
+      </div>
+      
+      <div id="movie">
+   
+   <div id="leftCol">
+      <h3 style="margin-top: 2px;">Posters <a class="edit" href="/movie/3/posters" title="View Posters">Show All</a></h3>
+<a href="/movie/3"><img src="http://cf1.imgobject.com/posters/402/4d0f61877b9aa1025f003402/varjoja-paratiisissa-cover.jpg" /></a>
+
+
+
+
+<h3>Original Title</h3>
+<p>Varjoja paratiisissa</p>
+
+
+<h3>Movie Facts</h3>
+
+<p><strong>Part of the:</strong> <a href="/movie/8384">Proletariat Trilogy</a></p>
+
+<p><strong>Status:</strong> <span id="status">Released</span></p>
+<p><strong>Runtime:</strong> <span id="runtime">76</span></p>
+<p><strong>Budget:</strong> <span id="budget">$0</span></p>
+<p><strong>Revenue:</strong> <span id="revenue">$0</span></p>
+<p><strong>Language(s):</strong> <span id="languages">fi</span></p>
+<p><strong>Webpage:</strong> <span id="homepage">-</span></p>
+
+<h3>Release Info</h3>
+<ul class="certification">
+<li><img src="http://cf2.themoviedb.org/assets/968591e005098/images/flags/us.png" /><p>Released: 1986-10-17<br />Rated: -</p></li>
+</ul>
+
+
+<h3>Trailers <a class="edit" href="/movie/3/trailers" title="View Trailers">Show All</a></h3>
+<p class="trailers">No <img src="http://cf2.themoviedb.org/assets/e59429092f451/images/youtube-logo.png" width="15" height="16" alt="YouTube" /> trailers found.</p>
+
+<h3>Plot Keywords</h3>
+<ul class="keywords">
+<li><a href="/keyword/müllabfuhr">müllabfuhr</a></li>
+<li><a href="/keyword/salesclerk">salesclerk</a></li>
+<li><a href="/keyword/helsinki">helsinki</a></li>
+<li><a href="/keyword/80s">80s</a></li>
+<div style="clear: left;"></div></ul>
+
+<h3>Alternative Titles <a class="edit" href="/movie/3/release-info" title="View Alternative Titles" alt="View Alternative Titles">Show All</a></h3>
+<ul><li>Shadows in Paradise </li></ul>
+
+<p class="changelog"><a href="/movie/3/changelog">Changelog</a></p>
+
+
+   </div>
+   
+   <div id="mainCol">
+      <div class="title">
+   <h2 id="title"><a href="/movie/3">Shadows in Paradise</a></h2> <h3 id="year">(1986)</h3>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+   var slug = "3"
+   
+   Ext.onReady(function(){
+      new Ext.ux.Rating('rating-3', {
+         split: 2
+      });
+   });
+</script>
+
+<div id="rating-3" class="rating">
+   
+      
+         <input type="radio" disabled="true" name="3" value="0.5">
+<input type="radio" disabled="true" name="3" value="1.0">
+<input type="radio" disabled="true" name="3" value="1.5">
+<input type="radio" disabled="true" name="3" value="2.0">
+<input type="radio" disabled="true" name="3" value="2.5">
+<input type="radio" disabled="true" name="3" value="3.0">
+<input type="radio" disabled="true" name="3" value="3.5">
+<input type="radio" disabled="true" name="3" value="4.0">
+<input type="radio" disabled="true" name="3" value="4.5">
+<input type="radio" disabled="true" name="3" value="5.0">
+<input type="radio" disabled="true" name="3" value="5.5">
+<input type="radio" disabled="true" name="3" value="6.0">
+<input type="radio" disabled="true" name="3" value="6.5">
+<input type="radio" disabled="true" name="3" value="7.0">
+<input type="radio" disabled="true" name="3" value="7.5">
+<input type="radio" disabled="true" name="3" value="8.0" checked="true">
+<input type="radio" disabled="true" name="3" value="8.5">
+<input type="radio" disabled="true" name="3" value="9.0">
+<input type="radio" disabled="true" name="3" value="9.5">
+<input type="radio" disabled="true" name="3" value="10.0">
+
+      
+   
+</div>
+
+<div class="movierating">
+   <div id="updateRating">
+      
+         <p class="average">8.0/10 (4 votes)</p>
+      
+   </div>
+</div>
+
+<p id="tagline"></p>
+
+<script type="text/javascript" charset="utf-8">
+   var mid = "3"
+</script>
+
+<h3>Overview</h3>
+<p id="overview">An episode in the life of Nikander, a garbage man, involving the death of a co-worker, an affair and much more. </p>
+
+<h3>Crew</h3>
+
+   
+   
+      
+   
+      
+   
+   
+   
+      <table class="crewStub" border="0" cellspacing="0" cellpadding="0">
+         <tbody>
+         
+         
+            
+               
+            
+         
+            
+               
+            
+         
+            
+               
+            
+         
+            
+               
+            
+         
+            
+               
+            
+         
+         
+            
+               <tr>
+                  <td class="job">Director:</td>
+                  <td class="person"><a href="/person/16767">Aki Kaurismäki</a></td>
+               </tr>
+            
+         
+         </tbody>
+      </table>
+      
+      <p class="more"><a href="/movie/3/cast"><img src="http://cf2.themoviedb.org/images/show-more.png" width="8" height="8" alt="Show All">  Show All</a></p>
+   
+
+
+<h3>Cast</h3>
+
+   <table id="castTable" class="cast" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+         <tr>
+            <td>
+            
+            
+               
+            
+               
+                  
+                     
+                     
+                     
+                     <div class="castItem">
+                        <span class="image">
+                           <a href="/person/4826"><img class="profile" src="http://cf2.themoviedb.org/assets/c6b603a7d4ab7/images/no-profile-small.png" width="45" alt="No profile image found." /></a>
+                        </span>
+                        <span class="text">
+                           <a href="/person/4826">Matti Pellonpää</a><br />
+                           as Nikander
+                        </span>
+                     </div>
+                  
+                     
+                     
+                     
+                     <div class="castItem">
+                        <span class="image">
+                           <a href="/person/5999"><img class="profile" src="http://cf2.themoviedb.org/assets/c6b603a7d4ab7/images/no-profile-small.png" width="45" alt="No profile image found." /></a>
+                        </span>
+                        <span class="text">
+                           <a href="/person/5999">Kati Outinen</a><br />
+                           as Ilona Rajamäki
+                        </span>
+                     </div>
+                  
+                     
+                     
+                     
+                     <div class="castItem">
+                        <span class="image">
+                           <a href="/person/4828"><img class="profile" src="http://cf2.themoviedb.org/assets/c6b603a7d4ab7/images/no-profile-small.png" width="45" alt="No profile image found." /></a>
+                        </span>
+                        <span class="text">
+                           <a href="/person/4828">Sakari Kuosmanen</a><br />
+                           as  	Melartin
+                        </span>
+                     </div>
+                  
+               
+            
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   
+   <p class="more"><a href="/movie/3/cast#cast"><img src="http://cf2.themoviedb.org/images/show-more.png" width="8" height="8" alt="Show All"> Show All</a></p>
+
+
+<h3>Backdrops 
+  
+  <a class="edit" href="/movie/3/backdrops" title="View All">Show All</a></h3>
+
+   <script type="text/javascript" charset="utf-8">
+      Ext.onReady(function(){
+         carousel1 = new Ext.ux.Carousel('backdrops');
+      });
+   </script>
+
+
+
+<div id="backdrops" class="carousel_container_style">
+<a href="http://cf1.imgobject.com/backdrops/310/4d08988e7b9aa101d7000310/varjoja-paratiisissa-original.jpg" target="_blank"><img src="http://cf1.imgobject.com/backdrops/310/4d08988e7b9aa101d7000310/varjoja-paratiisissa-thumb.jpg" /></a>
+<a href="http://cf1.imgobject.com/backdrops/314/4d0898507b9aa101e4000314/varjoja-paratiisissa-original.jpg" target="_blank"><img src="http://cf1.imgobject.com/backdrops/314/4d0898507b9aa101e4000314/varjoja-paratiisissa-thumb.jpg" /></a>
+<a href="http://cf1.imgobject.com/backdrops/342/4d0898c17b9aa101de000342/varjoja-paratiisissa-original.jpg" target="_blank"><img src="http://cf1.imgobject.com/backdrops/342/4d0898c17b9aa101de000342/varjoja-paratiisissa-thumb.jpg" /></a>
+<a href="http://cf1.imgobject.com/backdrops/332/4d0898157b9aa101e6000332/varjoja-paratiisissa-original.jpg" target="_blank"><img src="http://cf1.imgobject.com/backdrops/332/4d0898157b9aa101e6000332/varjoja-paratiisissa-thumb.jpg" /></a>
+<a href="http://cf1.imgobject.com/backdrops/344/4d0897fd7b9aa101d4000344/varjoja-paratiisissa-original.jpg" target="_blank"><img src="http://cf1.imgobject.com/backdrops/344/4d0897fd7b9aa101d4000344/varjoja-paratiisissa-thumb.jpg" /></a>
+</div>
+<div id="backdropCover">&nbsp;</div>
+
+<h3>Genres</h3>
+<span id="genres">
+   <ul class="tags">
+<li><a href="/genre/comedy" alt="Comedy">Comedy</a></li>
+<li><a href="/genre/drama" alt="Drama">Drama</a></li>
+<li><a href="/genre/indie" alt="Indie">Indie</a></li>
+</ul>
+</span>
+
+<h3>Reviews</h3>
+<p>Coming soon!</p>
+   </div>
+   
+   
+   <div style="clear: both;"></div>
+</div>
+   </div>
+   
+   <div id="bottomCap"></div>
+   
+   <div id="footer">
+      <ul>
+         <li class="section">The Basics</li>
+         <li><a href="/content/about" title="About TMDb">About TMDb</a></li> 
+         <li><a href="/content/contact" title="Contact TMDb">Contact Us</a></li> 
+         <li><a href="http://api.themoviedb.org/2.1/" title="TMDb API Documentation">API</a></li>
+      </ul>
+      
+      <ul>
+         <li class="section">Get Involved</li>
+         <li><a href="/movie/new">Add New Movie</a></li> 
+         <li><a href="http://forums.themoviedb.org/forum/2/movie-backdrops-posters/" title="Movie Backdrops &amp; Posters">Create Some Fanart</a></li> 
+         <li><a href="https://themoviedb.lighthouseapp.com/projects/17044-themoviedborg/overview">Report a Bug</a></li> 
+         <li><a href="http://api.themoviedb.org/2.1/current-apps" title="TMDb API Documentation - Current Applications">Develop an App!</a></li>
+      </ul>
+      
+      <ul>
+         <li class="section">Community</li>
+         <li><a class="twitter" href="http://twitter.com/themoviedb" title="Follow TMDb on Twitter">Follow TMDb</a></li>
+         <li><a class="facebook" href="http://www.facebook.com/themoviedb" title="Become a fan of TMDb on Facebook">Become a Fan</a></li>
+         <li><a href="http://forums.themoviedb.org/" title="themoviedb.org - Forums">Jump on the Forums</a></li> 
+         <li><a href="/content/contact" title="Contact TMDb">Email Us</a></li>
+      </ul>
+      
+      <ul>
+         <li class="section">Legal</li>
+         <li><a href="/terms-of-use" title="Terms of use">Terms of Use</a></li>
+         <li><a href="/privacy-policy" title="Privacyt Policy">Privacy Policy</a></li>
+      </ul>
+      
+      <div style="clear: both;"></div>
+   </div>
+   
+   
+   
+   
+   
+   
+   
+      
+         <script src="http://cf2.themoviedb.org/javascripts/min/84fe/Ext.ux.Plugin.Rating.js" type="text/javascript"></script>
+         
+            <script src="http://cf2.themoviedb.org/javascripts/min/84fe/Ext.ux.Plugin.Carousel.js" type="text/javascript"></script>
+         
+      
+      
+   
+   
+   
+   <script src="http://cf2.themoviedb.org/javascripts/min/84fe/site.js" type="text/javascript"></script>
+   
+   
+   <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+   <script type="text/javascript">
+      try {
+         reinvigorate.track("08v2x-140ya769c7");
+      } catch(err) {}
+   </script>
+   
+   <script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-2087971-10']);
+     _gaq.push(['_setDomainName', '.themoviedb.org']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+   
+</body>
+</html>
